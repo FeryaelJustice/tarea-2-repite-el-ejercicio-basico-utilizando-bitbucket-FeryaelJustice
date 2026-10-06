@@ -9,7 +9,7 @@ Iniciamos el proyecto en local
 
 2. ![](steps/paso2.jpg) 
 
-Creamos algun archivo o modificación
+Creamos algún archivo o hacemos alguna modificación.
 
 3. ![](steps/paso3.jpg) 
 
@@ -21,15 +21,15 @@ Hacemos commit en local
 
 5. ![](steps/paso5.jpg) 
 
-Creamos repositorio remoto en Bitbucket dandole a "Create repository"
+Creamos un repositorio remoto en Bitbucket haciendo clic en "Create repository".
 
 6. ![](steps/paso6.jpg) 
 
-Creamos con un nombre y sin crear el readme"
+Creamos un repositorio con un nombre y sin crear el README.
 
 7. ![](steps/paso7.jpg) 
 
-Copiamos la url para añadir el proyecto a nuestro repositorio git local
+Copiamos la URL para añadir el proyecto a nuestro repositorio Git local
 
 8. ![](steps/paso8.jpg) 
 
@@ -37,7 +37,7 @@ Añadimos el repositorio remoto
 
 9. ![](steps/paso9.jpg) 
 
-Hacemos un git push (si es primera vez hacemos push en esa cuenta, nos pedira credenciales)
+Hacemos un git push (si es la primera vez que hacemos push en esa cuenta, nos pedirá las credenciales)
 
 10. ![](steps/paso10.jpg) 
 
@@ -45,11 +45,11 @@ Generamos un personal access token
 
 11. ![](steps/paso11.jpg) 
 
-Metemos las credenciales con el personal access token como password
+Introducimos las credenciales y usamos el personal access token como contraseña
 
 12. ![](steps/paso12.jpg) 
 
-Hacemos pull por si hay cambios traernoslos
+Hacemos pull para incorporar los cambios que haya
 
 13. ![](steps/paso13.jpg) 
 
@@ -57,8 +57,8 @@ Hacemos un cambio y hacemos commit
 
 14. ![](steps/paso14.jpg) 
 
-Revertimos los cambios a otro commit cogiendo su hash 
-identificador con el comando git log --oneline
+Revertimos los cambios hasta otro commit usando su hash 
+identificador, que obtenemos con el comando git log --oneline
 
 15. ![](steps/paso15.jpg) 
 
